@@ -1,0 +1,20 @@
+
+element.style {
+}
+header {
+    padding: 60px 0 30px;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
